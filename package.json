@@ -1,0 +1,28 @@
+{
+  "name": "eepc",
+  "version": "1.0.0",
+  "description": "Ethian's Educative PC, a javascript OS written for my kid's personal computer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalcaraz/eePC.git"
+  },
+  "author": "Luis Alcaraz (lalcaraz@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalcaraz/eePC/issues"
+  },
+  "homepage": "https://github.com/lalcaraz/eePC#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0",
+    "inquirer-emoji": "^1.0.2",
+    "lodash": "^4.17.15",
+    "say": "^0.16.0"
+  }
+}
